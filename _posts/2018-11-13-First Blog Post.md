@@ -1,3 +1,8 @@
+---
+title: "A great title for my blog post"
+date: 2018-11-13
+---
+
 # My first blog post
 
 - Recap of steps:
